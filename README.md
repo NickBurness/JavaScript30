@@ -5,5 +5,5 @@
 >I recommend anyone new to web development and JavaScript to take on this challenge. You will definetely become more confident with your abilities. Like I have. 
 >You can learn more about this 30 day challenge here. https://javascript30.com/ 
 
-Project 1 - Drum Kit
+Project 1 - Drum Kit  
 Project 2 - Clock
