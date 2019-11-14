@@ -7,5 +7,5 @@
 >You can learn more about this 30 day challenge here. https://javascript30.com/ 
 
 Project 1 - Drum Kit  
-Project 2 - Clock
+Project 2 - Clock  
 Project 3 - CSS Variables  
