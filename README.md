@@ -8,3 +8,4 @@
 
 Project 1 - Drum Kit  
 Project 2 - Clock
+Project 3 - CSS Variables  
