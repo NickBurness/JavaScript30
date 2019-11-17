@@ -9,3 +9,6 @@
 Project 1 - Drum Kit  
 Project 2 - Clock  
 Project 3 - CSS Variables  
+Project 4 - Array Cardio  
+Project 5 - FlexGallery  
+Project 6 - 
