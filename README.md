@@ -11,4 +11,5 @@ Project 3 - CSS Variables
 Project 4 - Array Cardio  
 Project 5 - Flex Gallery  
 Project 6 - Type Ahead  
-Project 7 - Array Cardio 2
+Project 7 - Array Cardio 2  
+Project 8 - Paint on HTML5 Canvas
