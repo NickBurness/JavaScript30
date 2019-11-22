@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Console Tricks!</title>
+</head>
+
+<body>
+
+<p onClick="makeCrimson()">Watch me!</p>
+
+<script>
+    const pets = [{
+        name: 'Luigi',
+        age: 3
+    }, {
+        name: 'Cleo',
+        age: 7
+    }];
+
+    function makeCrimson() {
+        const p = document.querySelector('p');
+        p.style.color = '#dc143c';
+        p.style.fontSize = '50px';
+    };
+        // Regular
+console.log(`Hello, I am a regular console.log() message`);
+        // Interpolated
+console.log(`Same, but now I have interpolated some emojis console.log(%s) message`, `✔😉`);
+        // Styled
+console.log(`%cAnd now I have a #B4DA55 background.`, `color:#fff; font-size:15px; background-color:#B4DA55;`);
+        // warning!
+console.warn(`This is a warning, the next message will be an error!`);
+        // Error!
+console.error(`I told you so...`);
+        // Info (No longer shows the info icon on Google Chrome)
+console.info(`this no longer behaves as expected on Google Chrome`);
+        // Testing (assert only fires if something is wrong.)
+console.assert(`❌❌` === `✅`, 'this is incorrect'); // does print to console
+console.assert(`❌❌` != `✅`, 'this is correct'); // does not print to console
+
+        // clearing
+// console.clear() - as expected, clears the console.
+
+        // Viewing DOM Elements
+// console.log() - shows the actual dom element
+// console.dir(); // - View all the methods & properties available within an element.
+
+        // Grouping together
+// tables --> console.table();
+pets.forEach(pet => {
+        console.group(`${pet.name}`);
+        console.log(`This is ${pet.name}`);
+        console.log(`${pet.name} is ${pet.age} years old`);
+        console.groupEnd(`${pet.name}`);
+        });
+        // counting
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.count(`I love to code`);
+console.log(`days a week`);
+        // timing (peek console for result)
+console.time();
+console.timeEnd();
+
+</script>
+</body>
+</html>
