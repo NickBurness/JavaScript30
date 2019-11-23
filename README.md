@@ -14,4 +14,5 @@ Project 6 - Type Ahead
 Project 7 - Array Cardio 2  
 Project 8 - Paint on HTML5 Canvas  
 Project 9 - Fun with Dev Tools  
-Project 10 - Multiple checkboxes
+Project 10 - Multiple checkboxes  
+Project 11 - HTML5 Video Player
