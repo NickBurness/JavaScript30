@@ -16,4 +16,6 @@ Project 8 - Paint on HTML5 Canvas
 Project 9 - Fun with Dev Tools  
 Project 10 - Multiple checkboxes  
 Project 11 - HTML5 Video Player  
-Project 12 - Key Sequence Detection
+Project 12 - Key Sequence Detection  
+Project 13 - Scroll in on scroll  
+Project 14 - 
