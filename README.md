@@ -19,4 +19,5 @@ Project 11 - HTML5 Video Player
 Project 12 - Key Sequence Detection  
 Project 13 - Scroll in on scroll  
 Project 14 - Reference v Copy  
-Project 15 -
+Project 15 - Local Storage & Event Delegation  
+Project 16 - 
