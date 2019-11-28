@@ -18,5 +18,4 @@ function checkHandler(e) {
     }
     previouslyChecked = this;
 }
-
 checkboxes.forEach(checkbox => checkbox.addEventListener('click', checkHandler));

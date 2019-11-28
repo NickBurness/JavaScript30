@@ -3,3 +3,4 @@ git add .
 git commit -m "then the message"
 git push -u origin master
 git status
+git pull origin master
