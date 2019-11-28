@@ -20,4 +20,5 @@ Project 12 - Key Sequence Detection
 Project 13 - Scroll in on scroll  
 Project 14 - Reference v Copy  
 Project 15 - Local Storage & Event Delegation  
-Project 16 - 
+Project 16 - Mouse Move Shadow Effect  
+Project 17 - 
