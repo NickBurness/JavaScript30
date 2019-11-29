@@ -21,4 +21,5 @@ Project 13 - Slide images in on scroll
 Project 14 - Reference v Copy  
 Project 15 - Local Storage & Event Delegation  
 Project 16 - Mouse Move Shadow Effect  
-Project 17 - 
+Project 17 - Sort w/o Articles  
+Project 18 - 
