@@ -30,13 +30,13 @@ function paintToCanvas() {
         ctx.drawImage(video, 0, 0, width, height);
         // take pixels out
         let pixels = ctx.getImageData(0, 0, width, height);
-        // pixels = redEffect(pixels);
+         pixels = redEffect(pixels);
 
-        pixels = rgbSplit(pixels);
-        // ctx.globalAlpha = 0.5;
+        //pixels = rgbSplit(pixels);
+       // ctx.globalAlpha = 0.9;
 
 
-        pixels = greenScreen(pixels);
+        //pixels = greenScreen(pixels);
         // put pixels back
         ctx.putImageData(pixels, 0, 0);
     }, 50);
