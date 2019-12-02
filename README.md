@@ -24,4 +24,5 @@ Project 16 - Mouse Move Shadow Effect
 Project 17 - Sort w/o Articles  
 Project 18 - Adding Up Times with Reduce  
 Project 19 - Webcam fun  
-Project 20 - 
+Project 20 - Speech Recognition  
+Project 21 -  
