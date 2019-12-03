@@ -25,4 +25,5 @@ Project 17 - Sort w/o Articles
 Project 18 - Adding Up Times with Reduce  
 Project 19 - Webcam fun  
 Project 20 - Speech Recognition  
-Project 21 -  
+Project 21 - Geolocation & Speedometer - currently untested  
+Project 22 - 
