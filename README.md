@@ -6,7 +6,7 @@ I would recommend anyone currently learning web development, specifically JavaSc
 You can learn more about this 30 day challenge here.  
 https://javascript30.com/ :heavy_check_mark:
 
-## Projects :star:
+## :three::zero: Projects :three::zero: Days :star:
 >1 - Drum Kit  
 >2 - Clock  
 >3 - CSS Variables  
