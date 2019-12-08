@@ -1,4 +1,4 @@
-# JavaScript30 :octocat:
+# :star: JavaScript30 :octocat:
 
 All projects within this repository are my very best attempts towards @wesbos's JavaScript30 challenge.  
 No frameworks, no libraries, no compilers or boilerplates. Just pure vanilla JS.  
@@ -33,5 +33,4 @@ https://javascript30.com/ :heavy_check_mark:
 >24 - Sticky Nav  
 >25 - Event Capture, Propagation, Bubbling & Once  
 >26 - Follow Along Nav  
->27 -  
-:star:
+>27 - 
