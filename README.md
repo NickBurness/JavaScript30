@@ -31,4 +31,5 @@ You can learn more about this 30 day challenge here. https://javascript30.com/
 >23 - Speech Synthesis  
 >24 - Sticky Nav  
 >25 - Event Capture, Propagation, Bubbling & Once  
->26 - 
+>26 - Follow Along Nav  
+>27 - 
