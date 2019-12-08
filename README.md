@@ -1,11 +1,11 @@
-# JavaScript30 :star:
+# JavaScript30 :octocat:
 
 All projects within this repository are my very best attempts towards @wesbos's JavaScript30 challenge.  
 No frameworks, no libraries, no compilers or boilerplates. Just pure vanilla JS.  
 I would recommend anyone currently learning web development, specifically JavaScript to try it too.   
 You can learn more about this 30 day challenge here. https://javascript30.com/  
 
-## Projects :octocat:
+## Projects :star:
 >1 - Drum Kit  
 >2 - Clock  
 >3 - CSS Variables  
