@@ -1,4 +1,4 @@
-# :star: JavaScript30  
+# <p align=center> :star: JavaScript30  
   
 <p align=center> No frameworks, no libraries, no compilers or boilerplates. Just pure vanilla JS.  
 <p align=center>You can learn more about this 30 day challenge here.  
