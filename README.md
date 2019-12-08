@@ -1,8 +1,8 @@
 # :star: JavaScript30  
   
-No frameworks, no libraries, no compilers or boilerplates. Just pure vanilla JS.  
-You can learn more about this 30 day challenge here.  
-https://javascript30.com/ :heavy_check_mark:
+<p align=center> No frameworks, no libraries, no compilers or boilerplates. Just pure vanilla JS.  
+<p align=center>You can learn more about this 30 day challenge here.  
+<p align=center>https://javascript30.com/ :heavy_check_mark:
 
 ## Projects :octocat:
 >1 - Drum Kit  
