@@ -36,4 +36,4 @@
 >29 - Countdown Clock  
 >30 - Whack-A-Mole!  
 
-## JavaScript30? Completed it m8.
+#### JavaScript30? Completed it m8.
