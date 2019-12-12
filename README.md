@@ -34,4 +34,6 @@
 >27 - Click & Drag  
 >28 - Video Speed Controller  
 >29 - Countdown Clock  
->30 -
+>30 - Whack-A-Mole!  
+
+## JavaScript30? Completed it m8.
